@@ -48,7 +48,6 @@ Berikut merupakan hasil praktikum dari penjelasan pada channel youtube Indonesia
 
 - Evaluasi KNN Classification Model | Persiapan testing set
 
-  
 - Evaluasi model dengan accuracy score
 - Evaluasi model dengan precision score
 - Evaluasi model dengan recall score
