@@ -35,7 +35,7 @@ Setelah menginstal **Jupyter Notebook** lalu menambahkan beberapa library untuk 
 - Daftar pada link tersebut `github.com`
 
 ## Sample Dataset pada Scikit-Learn
-Scikit-learn menyediakan beberapa sample datasets untuk latihan dan eksperimen pembelajaran mesin, seperti Iris, Digits, Breast Cancer, Boston Housing, Diabetes. dataset ini dapat diakses dengan fungsi seperti `load_iris()` dan digunakan untuk berbagai tugas pembelajaran mesin.
+**Scikit-learn** menyediakan beberapa sample datasets untuk latihan dan eksperimen pembelajaran mesin, seperti Iris, Digits, Breast Cancer, Boston Housing, Diabetes. dataset ini dapat diakses dengan fungsi seperti `load_iris()` dan digunakan untuk berbagai tugas pembelajaran mesin.
 
 Berikut merupakan hasil praktikum dari penjelasan pada channel youtube Indonesia belajar [SKLearn 02](https://www.youtube.com/watch?v=mSO2hJln0OY&list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E&index=3)
 
@@ -68,7 +68,7 @@ Berikut merupakan hasil praktikum dari penjelasan pada channel youtube Indonesia
   ![image](https://github.com/user-attachments/assets/c0c3c2a6-ed82-43c7-b565-0b2782a24e07)
 
 ## Machine Learning Workflow dengan Scikit-Learn
-Workflow machine learning dengan Scikit-learn:
+**Workflow machine learning** dengan Scikit-learn:
 
 1. Memuat Data: Ambil data dari dataset bawaan atau sumber eksternal.
 2. Memisahkan Data: Bagi data menjadi pelatihan dan pengujian.
@@ -98,7 +98,7 @@ Berikut merupakan hasil praktikum dari penjelasan pada channel youtube Indonesia
   ![image](https://github.com/user-attachments/assets/5d236479-4939-47a1-b077-aa955b3a2fba)
 
 ## Data Preprocessing dengan Scikit-Learn
-Data preprocessing dengan Scikit-learn meliputi:
+**Data preprocessing** dengan Scikit-learn meliputi:
 
 1. Mengisi Nilai Kosong: Mengatasi data yang hilang.
 2. Normalisasi/Standarisasi: Menyesuaikan skala data.
